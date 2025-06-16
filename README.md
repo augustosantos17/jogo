@@ -1,8 +1,3 @@
-[![codezips.com/javascript/...](https://images.openai.com/thumbnails/url/DIghZXicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw52zjXwzS028cyMNPXJcykqc_cLcDPO1TWpMPR1zU03NEgNNSkKSMsJ9NfNcDRKLgxJ9wsODQxzqShSKwYApp4oaQ)](https://codezips.com/javascript/super-mario-game-using-html-javascript-with-source-code/)
-
-Claro! Com base nas informações fornecidas, aqui está um README personalizado para o seu repositório de jogo do Mario desenvolvido com HTML, CSS e JavaScript:
-
----
 
 # 🎮 Jogo do Mario
 
