@@ -43,7 +43,7 @@ Você pode jogar o jogo diretamente no seu navegador. Basta abrir o arquivo `ind
 
 ## 📸 Capturas de Tela
 
-![Tela do Jogo](https://via.placeholder.com/800x400.png?text=Tela+do+Jogo)
+![Tela do Jogo](https://camo.githubusercontent.com/6aa928c0cdeea82ab24d129935ff339aa75b8bbff8a3264857f666e63843a78f/68747470733a2f2f6a2e676966732e636f6d2f3739305934412e6769662376697472696e65646576)
 
 ## ✨ Melhorias Futuras
 
